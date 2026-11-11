@@ -1,0 +1,32 @@
+{
+  "Animals": [
+    "elephant", "giraffe", "dolphin", "penguin", "kangaroo",
+    "crocodile", "butterfly", "squirrel", "hedgehog", "octopus",
+    "cheetah", "gorilla", "flamingo", "tortoise", "leopard",
+    "buffalo", "hamster", "peacock", "scorpion", "rabbit"
+  ],
+  "Countries": [
+    "portugal", "brazil", "canada", "germany", "australia",
+    "argentina", "norway", "japan", "egypt", "mexico",
+    "ireland", "switzerland", "thailand", "morocco", "poland",
+    "finland", "colombia", "vietnam", "iceland", "greece"
+  ],
+  "Objects": [
+    "umbrella", "scissors", "backpack", "keyboard", "telescope",
+    "mirror", "candle", "hammer", "pillow", "calculator",
+    "headphones", "wallet", "flashlight", "compass", "ladder",
+    "suitcase", "notebook", "bicycle", "blanket", "clock"
+  ],
+  "Food": [
+    "pizza", "chocolate", "spaghetti", "sandwich", "pancake",
+    "avocado", "broccoli", "strawberry", "pineapple", "cheese",
+    "hamburger", "omelette", "watermelon", "croissant", "lasagna",
+    "cucumber", "mushroom", "popcorn", "dumpling", "cinnamon"
+  ],
+  "Professions": [
+    "doctor", "teacher", "engineer", "firefighter", "architect",
+    "dentist", "pilot", "electrician", "journalist", "lawyer",
+    "carpenter", "pharmacist", "plumber", "scientist", "photographer",
+    "mechanic", "nurse", "farmer", "programmer", "veterinarian"
+  ]
+}

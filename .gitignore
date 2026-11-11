@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual Environment
+.venv/
+venv/
+
+# IDE
+.idea/
+
+# Environment Variables
+.env
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Others
+main.py
+hangmanwordbank.py
+Hangman_wordbank

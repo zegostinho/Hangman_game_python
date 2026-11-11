@@ -51,6 +51,30 @@ Hangman/
 
 **Note:** Python 3 and Tkinter are required to run this application.
 
+## Build the macOS Application
+
+This project can also be packaged as a standalone macOS application using [PyInstaller](https://pyinstaller.org/).
+
+To build the application:
+
+1. Install PyInstaller:
+
+   ```bash
+   python -m pip install pyinstaller
+   ```
+
+2. Run the following command from the project directory:
+
+   ```bash
+   python -m PyInstaller --windowed --name Hangman --add-data "words.json:." gui.py
+   ```
+
+3. Once the build is complete, open the `dist` folder and run `Hangman.app`.
+
+The generated application can run independently without requiring a separate Python installation.
+
+**Note:** This application was built for macOS. To create an executable for another operating system, PyInstaller must be run on that operating system.
+
 ## Screenshots
 **Initial Menu**
 ![Inicial_Menu](images/Initial_menu.png)

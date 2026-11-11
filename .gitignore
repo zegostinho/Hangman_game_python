@@ -21,3 +21,7 @@ Thumbs.db
 main.py
 hangmanwordbank.py
 Hangman_wordbank
+
+# PyInstaller
+/build/
+/dist/
